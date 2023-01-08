@@ -1,5 +1,5 @@
 const APP_ID = "1c46dc7eb6e14b77bf70c74454505c5b"
-const TOKEN = prompt("Please enter your name", "Harry Potter")
+const TOKEN = "007eJxTYPgg/vTD58LYI+tCuRysl3mUujUqv0tfv3HXA2vL0hsl184rMBgmm5ilJJunJpmlGpokmZsnpZkbJJubmJiamBqYJpsmffuwK7khkJGhOOwREyMDBIL4LAwlqcUlDAwABaQifQ=="
 const CHANNEL = "test"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
